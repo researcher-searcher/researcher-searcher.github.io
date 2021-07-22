@@ -6,11 +6,11 @@ The initial platform was developed at the [University of Bristol](http://www.bri
 
 The platform consists of the following components:
 
-- [Setup - example using Pure data](https://github.com/researcher-searcher/researcher-searcher-setup)
-- [Knowledge graph - built using Neo4j](https://github.com/researcher-searcher/researcher-searcher-graph)
-- [NLP and search - Spacy and Elasticsearch](https://github.com/researcher-searcher/researcher-searcher-search)
-- [API - FastAPI](https://github.com/researcher-searcher/researcher-searcher-api)
-- [Web App - demo using Dash](https://github.com/researcher-searcher/researcher-searcher-app)
+- [Setup](https://github.com/researcher-searcher/researcher-searcher-setup) - example using Pure data
+- [Knowledge graph](https://github.com/researcher-searcher/researcher-searcher-graph) - built using Neo4j
+- [NLP and search](https://github.com/researcher-searcher/researcher-searcher-search) - Spacy and Elasticsearch
+- [API](https://github.com/researcher-searcher/researcher-searcher-api) - FastAPI
+- [Web App](https://github.com/researcher-searcher/researcher-searcher-app) - demo using Dash
 
 ### Instances
 
